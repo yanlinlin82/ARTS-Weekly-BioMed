@@ -1,0 +1,37 @@
+baseURL = "http://yanlinlin82.github.io/ARTS-Weekly-BioMed/"
+title = "颜林林的“生物医学ARTS”打卡记录"
+theme = "simple-style"
+paginate = 20
+googleAnalytics = "UA-74397492-3"
+
+[params]
+githubURL = "https://github.com/yanlinlin82/ARTS-Weekly-BioMed/"
+
+[permalinks]
+post = "/:slug/"
+page = "/:slug/"
+
+[[menu.main]]
+weight = 10
+name = "目录"
+url = "/"
+
+[[menu.main]]
+weight = 20
+name = "索引"
+url = "/quick/"
+
+[[menu.main]]
+weight = 90
+name = "关于"
+url = "/about/"
+
+[[menu.main]]
+weight = 99
+name = "个人网站"
+url = "http://yanlinlin.cn/"
+
+[markup.highlight]
+codeFences = true
+lineNos = true
+style = "monokailight"
