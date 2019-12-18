@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>颜林林的“生物医学ARTS”打卡记录</title>
+    <link>http://yanlinlin82.github.io/ARTS-Weekly-BioMed/</link>
+    <description>Recent content on 颜林林的“生物医学ARTS”打卡记录</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 18 Dec 2019 23:11:25 +0800</lastBuildDate>
+    
+	<atom:link href="http://yanlinlin82.github.io/ARTS-Weekly-BioMed/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ARTS第一周（2019年12月16日~22日）</title>
+      <link>http://yanlinlin82.github.io/ARTS-Weekly-BioMed/week-001/</link>
+      <pubDate>Wed, 18 Dec 2019 23:11:25 +0800</pubDate>
+      
+      <guid>http://yanlinlin82.github.io/ARTS-Weekly-BioMed/week-001/</guid>
+      <description>Algorithm Resource Technology Statistics </description>
+    </item>
+    
+    <item>
+      <title>关于本活动</title>
+      <link>http://yanlinlin82.github.io/ARTS-Weekly-BioMed/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://yanlinlin82.github.io/ARTS-Weekly-BioMed/about/</guid>
+      <description>这是我仿照《左耳听风》专栏ARTS每周打卡活动而启动的自学活动，内容面向生物信息/精准医疗。也采取每周打卡的方式，只不过四个字母的含义略有不同：
+ Algorithm（算法）：每周至少学习并总结一种生信算法，了解其基本原理、应用场景和常见工具。 Resource（资源）：每周至少学习并总结一项资源，诸如网站、数据库、在线服务等。 Technology（技术）：每周至少学习并总结一种生物实验技术，最好是高通量相关，理解其原理及应用，以及相应的数据分析手段。 Statistics（统计）：每周至少学习并总结一项统计学概念或方法。  以上内容，旨在不断提升我自己的相应基础技能。
+补充说明： 本网站使用Hugo生成，采用simple-style风格，并使用GitHub Pages进行发布。详细操作过程参见我博客上的文章《使用Hugo将GitHub仓库快速改造成内容网站》</description>
+    </item>
+    
+    <item>
+      <title>快速索引</title>
+      <link>http://yanlinlin82.github.io/ARTS-Weekly-BioMed/quick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://yanlinlin82.github.io/ARTS-Weekly-BioMed/quick/</guid>
+      <description>Algorithm  week-001  Resource  week-001  Technology  week-001  Statistics  week-001  </description>
+    </item>
+    
+  </channel>
+</rss>

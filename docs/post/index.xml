@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 颜林林的“生物医学ARTS”打卡记录</title>
+    <link>http://yanlinlin82.github.io/ARTS-Weekly-BioMed/post/</link>
+    <description>Recent content in Posts on 颜林林的“生物医学ARTS”打卡记录</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 18 Dec 2019 23:11:25 +0800</lastBuildDate>
+    
+	<atom:link href="http://yanlinlin82.github.io/ARTS-Weekly-BioMed/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ARTS第一周（2019年12月16日~22日）</title>
+      <link>http://yanlinlin82.github.io/ARTS-Weekly-BioMed/week-001/</link>
+      <pubDate>Wed, 18 Dec 2019 23:11:25 +0800</pubDate>
+      
+      <guid>http://yanlinlin82.github.io/ARTS-Weekly-BioMed/week-001/</guid>
+      <description>Algorithm Resource Technology Statistics </description>
+    </item>
+    
+  </channel>
+</rss>
