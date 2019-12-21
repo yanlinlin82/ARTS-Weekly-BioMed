@@ -7,6 +7,11 @@ googleAnalytics = "UA-74397492-3"
 [params]
 githubURL = "https://github.com/yanlinlin82/ARTS-Weekly-BioMed/"
 
+[markup.highlight]
+codeFences = true
+lineNos = true
+style = "monokailight"
+
 [permalinks]
 post = "/:slug/"
 page = "/:slug/"
@@ -18,8 +23,23 @@ url = "/"
 
 [[menu.main]]
 weight = 20
-name = "索引"
-url = "/quick/"
+name = "算法(A)"
+url = "/algorithm/"
+
+[[menu.main]]
+weight = 30
+name = "资源(R)"
+url = "/resource/"
+
+[[menu.main]]
+weight = 40
+name = "技术(T)"
+url = "/technology/"
+
+[[menu.main]]
+weight = 50
+name = "统计(S)"
+url = "/statistics/"
 
 [[menu.main]]
 weight = 90
@@ -30,8 +50,3 @@ url = "/about/"
 weight = 99
 name = "个人网站"
 url = "http://yanlinlin.cn/"
-
-[markup.highlight]
-codeFences = true
-lineNos = true
-style = "monokailight"
