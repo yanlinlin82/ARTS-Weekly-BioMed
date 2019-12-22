@@ -23,9 +23,13 @@
 我的实践 我选择这个算法开篇的另一个原因是，刚好前几天leetcode刷题上也用到类似思路。这是leetcode上的i第44题《通配符匹配》，给定一个字符串（s）和一个字符模式（p），字符模式中允许使用?表示任何单个字符，*表示任意字符串（包括空串），要求判断是否匹配（比如：&amp;ldquo;aa&amp;quot;与&amp;quot;a&amp;quot;不能匹配，而&amp;quot;aa&amp;quot;与&amp;rdquo;*&amp;ldquo;能匹配）。
 对这道题，我首先想到的做法是回溯法（详见我的解法-1），根据规则挨个字符进行评判，如果遇到不匹配的，就往前回溯，让“*”在回溯过程中分别匹配不同长度的字符。这个算法逻辑上没问题，但最终提交时报出了“运行时间超出限制”。
 考虑到这是一个典型的全局比对过程，于是我将其改为动态规划实现（详见我的解法-2），于是程序运行效率得到大幅度优化，提交通过。由于该题只需要判断是否匹配，因此我甚至不需要在内存中保存整个nxm大小的矩阵，而是按行扫描，只需要两个n长度（字符串s的长度）的数组即可。
-参考  Wikipedia: Needleman-Wunsch Algorithm   Resource ClinVar 简介 这是一个收录了人类突变及对应表型信息的公开数据库。其信息，为各类基因检测的结果解读，提供了非常重要的支持。
+算法的意义 序列比对是生物信息学中最重要的算法，几乎无所不在。序列比对的结果，一方面能给出两条序列的相似程度的评价，从而可以给出不同序列之间的“亲疏”关系，另一方面能给出比对细节，从而能够理解序列之间通过突变发生的可能的“演化”关系。有了这样的评价方法，后续的各种研究，才有了量化的依据和相应的实现基础。
+参考  Wikipedia: Needleman-Wunsch Algorithm   Resource ClinVar 简介 ClinVar发布在NCBI上，其地址是：https://www.ncbi.nlm.nih.gov/clinvar/
+这是一个收录了人类突变及对应表型信息的公开数据库。其信息，为各类基因检测的结果解读，提供了非常重要的支持。
+ClinVar接收来自各类临床研究的数据提交，这些数据包括病例的临床表型信息、基因信息以及其他相关信息。
 当前发展 最近两天，该数据库的记录数也突破了百万，我截了两个图，展示如下：
-参考  http://www.clinvar.com/   Technology 器官芯片化（OoCs，Organs-on-Chips） 参考  Trends in Biotechnology: Integrating Organs-on-Chips: Multiplexing, Scaling, Vascularization, and Innervation   Statistics 主成分分析（PCA，Principal Component Analysis） 参考  Wikipedia: Principal component analysis Principal Component Analysis (PCA) in R  </description>
+参考  https://www.ncbi.nlm.nih.gov/clinvar/   Technology 器官芯片化（OoCs，Organs-on-Chips） 这项技术，将组织器官放到芯片上，在体外模拟体内环境，从而用于相关的科学研究。目前将多种组织器官整合到一个体系中，以期用于疾病建模和药物发现等领域。《Trends in Biotechnology》上最新的这篇综述，对这个方向的技术进展做了总结。
+参考  Trends in Biotechnology: Integrating Organs-on-Chips: Multiplexing, Scaling, Vascularization, and Innervation   Statistics 主成分分析（PCA，Principal Component Analysis） 参考  Wikipedia: Principal component analysis Principal Component Analysis (PCA) in R  </description>
     </item>
     
     <item>
