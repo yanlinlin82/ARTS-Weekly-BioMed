@@ -1,8 +1,8 @@
-baseURL = "http://yanlinlin82.github.io/ARTS-Weekly-BioMed/"
+baseURL = "https://yanlinlin.cn/ARTS-Weekly-BioMed/"
 title = "颜林林的“生物医学ARTS”打卡记录"
 theme = "simple-style"
 paginate = 20
-googleAnalytics = "UA-74397492-3"
+googleAnalytics = "UA-74397492-1"
 
 [params]
 githubURL = "https://github.com/yanlinlin82/ARTS-Weekly-BioMed/"
@@ -46,7 +46,6 @@ weight = 90
 name = "关于"
 url = "/about/"
 
-[[menu.main]]
-weight = 99
+[[menu.parent]]
 name = ">>个人网站"
 url = "http://yanlinlin.cn/"
