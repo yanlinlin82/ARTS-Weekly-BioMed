@@ -4,6 +4,9 @@ theme = "simple-style"
 paginate = 20
 googleAnalytics = "UA-74397492-1"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
 githubURL = "https://github.com/yanlinlin82/ARTS-Weekly-BioMed/"
 
