@@ -52,13 +52,13 @@ MANE 是 Matched Annotation from NCBI and EBI 的缩写。
 
 我对这个项目的了解，始于2018年12月，NCBI 和 EBI 联合举办的一个专门介绍该项目的网上 Webinar。下面是相应的幻灯片（我一时找不到原始下载链接，就把文件先放到百度网盘，供需要的同学自取；若有侵权，请告知删除）：
 
-* [MANE\_webinar\_1-1\_Aims\_and\_Goals.pdf](
-* [MANE\_webinar\_1-2\_Methodology.pdf]()
-* [MANE\_webinar\_2-1\_Deeper\_dive\_methodology.pdf]()
+* [MANE\_webinar\_1-1\_Aims\_and\_Goals.pdf](https://pan.baidu.com/s/1ijwVuPF-HctPHinKgXJ1kg) *（提取码: ixs6）*
+* [MANE\_webinar\_1-2\_Methodology.pdf](https://pan.baidu.com/s/14qTTn0jS_o3fu3b83--Nxw) *（提取码: t1f4）*
+* [MANE\_webinar\_2-1\_Deeper\_dive\_methodology.pdf](https://pan.baidu.com/s/1NMypA7OgIfLmWr898k7zxA) *（提取码: gxxn）*
 * [MANE\_webinar\_2-2\_Progress\_and\_future.pdf](https://pan.baidu.com/s/11G3XM8_QXaYafknjuW5gLA) *（提取码: qg83）*
-* [MANE\_webinar\_2-3\_Sequence.pdf]()
+* [MANE\_webinar\_2-3\_Sequence.pdf](https://pan.baidu.com/s/1qaSIl_8npKLDn8p36Sa3Zw) *（提取码: hf5v）*
 * [MANE\_webinar\_2-4\_LRG.pdf](https://pan.baidu.com/s/1iLVUcBfbBvPgHGgmznsvjw) *（提取码: rg9f）*
-* [MANE\_webinar\_2-5\_Access\_and\_Display.pdf]()
+* [MANE\_webinar\_2-5\_Access\_and\_Display.pdf](https://pan.baidu.com/s/1LqVXXfo4hvbXwiTzG5oi5w) *（提取码: ry1y）*
 
 #### 当前状态
 
